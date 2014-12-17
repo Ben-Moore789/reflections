@@ -1,0 +1,7 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+	-it associates that directory as a git repository allowing you to "commit" the contents of the directory.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Working directory is the local location of your repository.  The staging area is essentially a queue.  What in your working directory/repository is waiting to be committed.  The value comes in size.  It allows you to choose what files to commit vs the entire repository.
+
+3.
