@@ -12,4 +12,14 @@
 		Use this to experiment or make changes without affecting the original file, with the option of merging them later.
 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
-	You can see differences when you are not connected to the internet.		
+	You can see differences when you are not connected to the internet.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	I would probably use dropbox or google docs.  They would be harder in that any changes made concurrently would be hard to see and subsequently merge into one.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?	
+	See #3: Branch.
+	Benefits of using a seperate branch is explained above.
+	Benefits of directly to the master... I don't see any other than if the object isn't critical and or a functioning piece of something else, it requires less work.
+
+
